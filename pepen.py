@@ -15,4 +15,4 @@ print(nama_dpn)
 
 print(nama_blkg)
 
-print(f"nama saya adalah", nama_dpn, nama_blkg, "kelas {data['kelas']}")
+print(f"nama saya adalah, nama_dpn, nama_blkg, kelas {data['kelas']}")
