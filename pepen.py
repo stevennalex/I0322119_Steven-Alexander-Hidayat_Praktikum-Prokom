@@ -7,7 +7,7 @@ print(int)
 
 nama_dpn = "steven"
 nama_blkg = "alexander"
-data = {"nama_dpn1": "steven", "nama_blkg1": "pepen"}
+data = {"kelas": "kelas D"}
 
 print("Nama lengkap saya adalah", nama_dpn, nama_blkg)
 
@@ -15,4 +15,4 @@ print(nama_dpn)
 
 print(nama_blkg)
 
-print(f"nama saya adalah", nama_dpn, nama_blkg, "atau", {data['nama_dpn1']})
+print(f"nama saya adalah", nama_dpn, nama_blkg, "kelas {data['kelas']}")
